@@ -11,7 +11,7 @@ public class Bubble {
         Scanner sc = new Scanner(System.in);
 
         // n - кількість днів
-        int n = 3;
+        int n = 7;
         double sum = 0;
         price = new double[n];
         System.out.println("Enter the price: ");
